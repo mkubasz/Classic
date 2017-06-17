@@ -1,0 +1,9 @@
+C:\Users\Achilles\documents\visual studio 2017\Projects\MyCalculator\CalcTest\bin\Debug\CalcTest.exe.config
+C:\Users\Achilles\documents\visual studio 2017\Projects\MyCalculator\CalcTest\bin\Debug\CalcTest.exe
+C:\Users\Achilles\documents\visual studio 2017\Projects\MyCalculator\CalcTest\bin\Debug\CalcTest.pdb
+C:\Users\Achilles\documents\visual studio 2017\Projects\MyCalculator\CalcTest\obj\Debug\CalcTest.csprojResolveAssemblyReference.cache
+C:\Users\Achilles\documents\visual studio 2017\Projects\MyCalculator\CalcTest\obj\Debug\CalcTest.Form1.resources
+C:\Users\Achilles\documents\visual studio 2017\Projects\MyCalculator\CalcTest\obj\Debug\CalcTest.Properties.Resources.resources
+C:\Users\Achilles\documents\visual studio 2017\Projects\MyCalculator\CalcTest\obj\Debug\CalcTest.csproj.GenerateResource.Cache
+C:\Users\Achilles\documents\visual studio 2017\Projects\MyCalculator\CalcTest\obj\Debug\CalcTest.exe
+C:\Users\Achilles\documents\visual studio 2017\Projects\MyCalculator\CalcTest\obj\Debug\CalcTest.pdb
